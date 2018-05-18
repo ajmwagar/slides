@@ -8,7 +8,7 @@ date: May 18th, 2018
 
 ## Industrial Revolution
 
-- Period of major industrialization during the late 1700s and early 1800s. 
+- Period of major industrialization during the late 1700s and early 1800s
 - Mechanization was a key driver
 - Led to major social, cultural, and economic changes
 
