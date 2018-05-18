@@ -150,14 +150,14 @@ identifying important emails but struggle to identify urgent emails.
 
 -   **Customizable Notifications**: Get email notifications through your
     preferred channel. (SMS (text), FB Messenger, Telegram, Slack,
-    etc)
+    etc.)
 
 -   **Auto-Replies**: When you need to focus, Outrigger responds to
     emails with a customizable message and notification link. (useful for
-    during school, expos, meetings, etc)
+    during school, expos, meetings, etc.)
 
 -   **VIP Whitelist**: Immediately receive a notification when a VIP
-    emails you. (teachers, etc)
+    emails you. (teachers, etc.)
 
 ## Features Cont'd
 
