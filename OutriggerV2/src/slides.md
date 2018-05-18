@@ -17,6 +17,7 @@ Source: _Investopedia_
 ## Analysis
 
 The Industrial Revolution saw:
+
 - The mechanization of agriculture and textile manufacturing, and
 - A revolution in power and transportation including steamships and railroads, 
 - That significantly affected social, cultural, and economic conditions. 
@@ -28,7 +29,7 @@ Source: _Investopedia_
 -   **Industrialization**: the development of industries in a country or
     region on a wide scale.
 
--   **Mechanization**: Mechanization is the process of changing from
+-   **Mechanization**: the process of changing from
     working largely or exclusively by hand or with animals to doing that
     work with machinery.
 
@@ -43,7 +44,7 @@ Source: _Wikipedia_
 
 ## The Telegraph
 
-A key invention during the Industrial Revolution was the Telegraph
+A key invention during the Industrial Revolution was the Telegraph.
 
 <!--A "telegraph" is a device for transmitting and receiving messages over
 long distances, i.e., for telegraphy. ... A telegraph message sent by an
@@ -52,7 +53,7 @@ printing telegraph operator using plain text) was known as a telegram.-->
 <img src="./images/telegraph.jpg" style="height:50%; width:50%;">
 
 
-## Telegraph Cont'd.
+## Telegraph Cont'd
 
 - Developed during the Industrial Revolution, proliferated shortly after
 - Used to transfer messages across long distances
@@ -66,7 +67,7 @@ printing telegraph operator using plain text) was known as a telegram.-->
 - Invented in 1972
 - Proliferated in the early 1990s
 - Ubiquitous and largely overwhelming today
-- While texting has also proliferated, email still dominates
+- While texting has recently proliferated, email still dominates
 
 ## The Problem with email
 
@@ -74,6 +75,12 @@ There are **3.7 billion** email accounts worldwide. <br> Each day, a staggering
 **269 billion** emails are sent.
 
 That is **73 emails** per account per day.
+
+By the time you graduate, email volume will be **319.6 billion** per day.
+
+Source: _The Radicati Group, Inc._
+
+##
 
 ___How many of these are truly urgent?___
 
@@ -83,6 +90,9 @@ interruption.
 There is a **growing expectation of availability** via mobile devices and it
 is **exceedingly difficult to unplug**.
 
+Source: _U.C. Irvine_
+
+
 ## 
 
 > I built Outrigger to solve these problems and help people create some space between themselves and their email inboxes to better focus on <br> what’s important.
@@ -91,8 +101,8 @@ is **exceedingly difficult to unplug**.
 Mechanical advantage for email
 <section>
 <img src="./images/photo_2018-04-29_21-25-51.jpg" style="height:30%; width:30%;">
-<img src="./images/photo_2018-03-06_08-21-45.jpg" style="height:30%; width:30%;">
-<img src="./images/notification.jpg" style="height:30%; width:30%;">
+<img src="./images/jhonny.png" style="height:30%; width:30%;">
+<img src="./images/bodhi.jpg" style="height:30%; width:30%;">
 </section>
 
 ##
@@ -134,7 +144,7 @@ identifying important emails but struggle to identify urgent emails.
 
 
 
-## What is it?
+## What is Outrigger?
 
 ## Features
 
@@ -149,7 +159,7 @@ identifying important emails but struggle to identify urgent emails.
 -   **VIP Whitelist**: Immediately receive a notification when a VIP
     emails you (teachers, etc).
 
-## Features Cont'd.
+## Features Cont'd
 
 -   **Periscope Mode**: If someone replies to an email you sent within a
     set time, you get a notification. Keep important conversations
@@ -191,7 +201,7 @@ hundreds of users).
 
 ## Maintainability
 
-At **11,523** Lines of JavaScript spread across **83** files, Outrigger
+At **11,523** lines of JavaScript spread across **83** files, Outrigger
 is reasonably maintainable. Outrigger only requires **52** dependencies
 from NPM, most of which are used for logging (this is low).
 
