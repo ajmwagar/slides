@@ -8,22 +8,22 @@ date: May 17th, 2018
 
 ## Industrial Revolution
 
-**Industrial Revolution**: The Industrial Revolution was a period of
-major industrialization that took place during the late 1700s and early
-1800s. This time period saw the mechanization of agriculture and textile
-manufacturing and a revolution in power, including steamships and
-railroads, that affected social, cultural and economic conditions. -
-*Investopedia*
+- Period of major industrialization during the late 1700s and early 1800s. 
+- Mechanization was a key driver
+- Led to major social, cultural, and economic changes
+
+Source: _Investopedia_
 
 ## Analysis
 
-The Industrial Revolution was a period of major **industrialization**
-that took place during the late 1700s and early 1800s. This time period
-saw the **mechanization** of agriculture and textile manufacturing and a
-revolution in power, including steamships and railroads, that affected
-social, cultural and **economic conditions**.
+The Industrial Revolution saw:
+- The mechanization of agriculture and textile manufacturing, and
+- A revolution in power and transportation including steamships and railroads, 
+- That significantly affected social, cultural, and economic conditions. 
 
-##
+Source: _Investopedia_
+
+## Key Terms
 
 -   **Industrialization**: the development of industries in a country or
     region on a wide scale.
@@ -37,31 +37,59 @@ social, cultural and **economic conditions**.
 
 ## Another definition
 
-The Industrial Revolution was the transition to new manufacturing
-processes in the period from about 1760 to sometime between 1820 and
-1840. - *Wikipedia*
+The Industrial Revolution was the transition to new manufacturing processes in the period from about 1760 to sometime between 1820 and 1840.
+
+Source: _Wikipedia_
 
 ## The Telegraph
 
-A "telegraph" is a device for transmitting and receiving messages over
+A key invention during the Industrial Revolution was the Telegraph
+
+<!--A "telegraph" is a device for transmitting and receiving messages over
 long distances, i.e., for telegraphy. ... A telegraph message sent by an
 electrical telegraph operator or telegrapher using Morse code (or a
-printing telegraph operator using plain text) was known as a telegram.
+printing telegraph operator using plain text) was known as a telegram.-->
+<img src="./images/telegraph.jpg" style="height:50%; width:50%;">
+
 
 ## Telegraph Cont'd.
 
--   Used to transfer messages across long distances
+- Developed during the Industrial Revolution, proliferated shortly after
+- Used to transfer messages across long distances
+- Samuel Morse and Alfred Vail developed the most prevalent system
+- Made the Pony Express obsolete in the US
+- Used until the invention of computers
+- Morse Code still used today
 
--   Bell's invention was used until the invention of computers
 
--   Morse Code is still used today
+## Today’s Telegraph is email
+- Invented in 1972
+- Proliferated in the early 1990s
+- Ubiquitous and largely overwhelming today
+- While texting has also proliferated, email still dominates
 
-# Outrigger
+## The Problem with email
+
+There are **3.7 billion** email accounts worldwide. <br> Each day, a staggering
+**269 billion** emails are sent.
+
+That is **73 emails** per account per day.
+
+___How many of these are truly urgent?___
+
+It takes an average of **23 minutes** to regain focus after an
+interruption.
+
+There is a **growing expectation of availability** via mobile devices and it
+is **exceedingly difficult to unplug**.
+
+## 
+
+> I built Outrigger to solve these problems and help people create some space between themselves and their email inboxes to better focus on <br> what’s important.
 
 ## Meet Outrigger
 Mechanical advantage for email
 <section>
-<br>
 <img src="./images/photo_2018-04-29_21-25-51.jpg" style="height:30%; width:30%;">
 <img src="./images/photo_2018-03-06_08-21-45.jpg" style="height:30%; width:30%;">
 <img src="./images/notification.jpg" style="height:30%; width:30%;">
@@ -104,24 +132,7 @@ text). <br> In the future, the notification could go to a teammate.
 Additionally, modern emails services (Google/Microsoft) <br> do a good job
 identifying important emails but struggle to identify urgent emails.
 
-## Why is this a problem?
 
-There are **3.7 billion** email accounts worldwide. <br> Each day, a staggering
-**269 billion** emails are sent.
-
-That is **73 emails** per account per day.
-
-___How many of these are truly urgent?___
-
-It takes an average of **23 minutes** to regain focus after an
-interruption.
-
-There is a **growing expectation of availability** via mobile devices and it
-is **exceedingly difficult to unplug**.
-
-## 
-
-> I built Outrigger to solve these problems and help people create some space between themselves and their email inboxes to better focus on <br> what’s important.
 
 ## What is it?
 
@@ -183,3 +194,9 @@ hundreds of users).
 At **11,523** Lines of JavaScript spread across **83** files, Outrigger
 is reasonably maintainable. Outrigger only requires **52** dependencies
 from NPM, most of which are used for logging (this is low).
+
+## Private Beta
+Today, Outrigger is available for Gmail and G-Suite users. Let me know if you want to try it.
+[outriggerapp.com](https://outriggerapp.com)
+<br>
+___Rig up and step out.___
