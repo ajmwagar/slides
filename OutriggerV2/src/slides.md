@@ -133,8 +133,8 @@ By contrast, this is an Outrigger OOO message.
 <img src="./images/outriggerooo.png" style="height:65%; width:65%;">
 
 ##
-If the sender clicks the button, <br> the Outrigger user gets this (via
-text). <br> In the future, the notification could go to a teammate.
+If the sender clicks the button, <br> the Outrigger user gets this. (via
+text) <br> In the future, the notification could go to a teammate.
 
 
 <img src="./images/notification.png" style="height:60%; width:60%;">
