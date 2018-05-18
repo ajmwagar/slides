@@ -76,7 +76,7 @@ There are **3.7 billion** email accounts worldwide. <br> Each day, a staggering
 
 That is **73 emails** per account per day.
 
-By the time you graduate, email volume will be **319.6 billion** per day.
+By the time we graduate, email volume will be **320 billion** per day.
 
 Source: _The Radicati Group, Inc._
 
