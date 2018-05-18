@@ -76,7 +76,7 @@ There are **3.7 billion** email accounts worldwide. <br> Each day, a staggering
 
 That is **73 emails** per account per day.
 
-By the time we graduate, email volume will be **320 billion** per day.
+By the time we graduate, email volume will be <br> **320 billion** per day.
 
 Source: _The Radicati Group, Inc._
 
@@ -149,15 +149,15 @@ identifying important emails but struggle to identify urgent emails.
 ## Features
 
 -   **Customizable Notifications**: Get email notifications through your
-    preferred channel (SMS (text), FB Messenger, Telegram, Slack,
+    preferred channel. (SMS (text), FB Messenger, Telegram, Slack,
     etc)
 
 -   **Auto-Replies**: When you need to focus, Outrigger responds to
-    emails with a customizable message and notification link (useful for
-    during school, expos, meetings, etc).
+    emails with a customizable message and notification link. (useful for
+    during school, expos, meetings, etc)
 
 -   **VIP Whitelist**: Immediately receive a notification when a VIP
-    emails you (teachers, etc).
+    emails you. (teachers, etc)
 
 ## Features Cont'd
 
@@ -190,20 +190,20 @@ identifying important emails but struggle to identify urgent emails.
 
 With a database storing user accounts, Outrigger is able to leverage
 enough of Google's APIs to allow for a maximum of 6-16% CPU usage during
-peak use hours (this is low).
+peak use hours. (this is low)
 
 ## Infrastructure
 
 Currently, Outrigger is running on a single free tier instance on AWS.
 It will be free until the end of 2018. Afterward **Outrigger will cost
-less than \$10 per month to run** (at its current scale, which supports
-hundreds of users).
+less than \$10 per month to run**. (at its current scale, which supports
+hundreds of users)
 
 ## Maintainability
 
 At **11,523** lines of JavaScript spread across **83** files, Outrigger
 is reasonably maintainable. Outrigger only requires **52** dependencies
-from NPM, most of which are used for logging (this is low).
+from NPM, most of which are used for logging. (this is low)
 
 ## Private Beta
  Outrigger is available today for Gmail and G-Suite users. Let me know if you want to try it.
