@@ -1,7 +1,7 @@
 ---
 author: Avery Wagar
 title: Outrigger
-date: May 17th, 2018
+date: May 18th, 2018
 ---
 
 # Industrial Revolution
@@ -206,7 +206,7 @@ is reasonably maintainable. Outrigger only requires **52** dependencies
 from NPM, most of which are used for logging (this is low).
 
 ## Private Beta
-Today, Outrigger is available for Gmail and G-Suite users. Let me know if you want to try it.
+ Outrigger is available today for Gmail and G-Suite users. Let me know if you want to try it.
 [outriggerapp.com](https://outriggerapp.com)
 <br>
 ___Rig up and step out.___
